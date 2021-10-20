@@ -31,7 +31,7 @@ Attualmente lavoro come consulente per <a>Elis Innovation Hub, Roma</a>
 - Musica Rock 🤘
 - Formula 1 🏎️
 - Monociclo
-- 
+
 ###  Technologies:
 - Java ☕️
 - Python 🐍
