@@ -4,20 +4,13 @@ Frequento il corso di Ingegneria Informatica del Politecnico di Milano presso El
 
 Junior back end Developer 
 
-- 🌱 Ingegneria informatica Politecnico di Milano
-- 🤔 JetBrains tool, QT creator, GIT, mySQL, PostMan, Office 365, Autocad ,Fusion360 , Cura3D, TIA portal Siemens. 
+- 🌱 Ingegneria informatica presso il Politecnico di Milano
 
-<!--
-**villaflaminio/villaflaminio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 Sto lavorando come sviluppatore back-end presso elis innovation hub
+- 🌱 Stro studiando Java - Spring Cloud - AWS - Python - 
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 Aiutatemi pure lato front-end
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 @flaminio su telegram, flaminio.villa01@gmail.com
 - ⚡ Fun fact: ...
--->
+
