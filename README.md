@@ -4,6 +4,8 @@ Mi chiamo <b>Flaminio villa</b> frequento il corso di Ingegneria Informatica   �
 Vivo a <b>Roma</b>🏠, Sono un diplomato in Elettrotecnica con una forte passione verso il mondo dell'automazione.
 Attualmente lavoro come consulente per <a>Elis Innovation Hub, Roma</a>
 
+- 📫 How to reach me: vifla01@gmail.com || @flaminio (Telegram)
+- 😄 Nikname: Flanagan 
 
 ### Studio e formazione 📚
 - 2021 ➡ Studente di ingegneria informatica presso il Politecnico di Milano & Elis.
