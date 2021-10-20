@@ -26,15 +26,20 @@ Attualmente lavoro come consulente per <a>Elis Innovation Hub, Roma</a>
 - 2021 ➡ Stage presso Terna s.p.a.
 - 2020 ➡ Stage presso NetResults s.r.l come sviluppatore junior C++.
 
-###  Technologies:                      ### My Passions 🎨:   
-- Java ☕️                               - Ciclismo 🚴‍
-- Python 🐍                             - Musica Rock 🤘
-- Arduino                               - Formula 1 🏎️
-- Siemens                               - Monociclo
+### My Passions 🎨:
+- Ciclismo 🚴‍♂️
+- Musica Rock 🤘
+- Formula 1 🏎️
+- Monociclo
+- 
+###  Technologies:
+- Java ☕️
+- Python 🐍
+- Arduino 
+- Siemens
 - Docker
 - Linux
 - Git
 - Google cloud
-
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=villaflaminio&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
