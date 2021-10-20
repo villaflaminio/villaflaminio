@@ -8,9 +8,7 @@ Junior back end Developer
 
 - 🔭 Sto lavorando come sviluppatore back-end presso elis innovation hub
 - 🌱 Stro studiando Java - Spring Cloud - AWS - Python - 
-- 👯 I’m looking to collaborate on ...
 - 🤔 Aiutatemi pure lato front-end
-- 💬 Ask me about ...
 - 📫 @flaminio su telegram, flaminio.villa01@gmail.com
-- ⚡ Fun fact: ...
+
 
