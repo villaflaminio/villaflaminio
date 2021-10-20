@@ -26,23 +26,11 @@ Attualmente lavoro come consulente per <a>Elis Innovation Hub, Roma</a>
 - 2021 ➡ Stage presso Terna s.p.a.
 - 2020 ➡ Stage presso NetResults s.r.l come sviluppatore junior C++.
 
-
-### My Passions 🎨:
-- Ciclismo 🚴‍♂️
-- Musica Rock 🤘
-- Formula 1 🏎️
-- Monociclo
-
-<img src="https://img.icons8.com/color/48/000000/unicycle.png"/> <br>
-
-
-
-
-###  Technologies:
-- Java ☕️
-- Python 🐍
-- Arduino 
-- Siemens
+###  Technologies:                      ### My Passions 🎨:   
+- Java ☕️                               - Ciclismo 🚴‍
+- Python 🐍                             - Musica Rock 🤘
+- Arduino                               - Formula 1 🏎️
+- Siemens                               - Monociclo
 - Docker
 - Linux
 - Git
