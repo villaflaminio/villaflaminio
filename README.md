@@ -35,6 +35,7 @@ Attualmente lavoro come consulente per <a>Elis Innovation Hub, Roma</a>
 ###  Technologies:
 - Java ☕️
 - Python 🐍
+- c# 
 - Arduino 
 - Siemens
 - Docker
