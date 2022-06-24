@@ -25,7 +25,7 @@ Attualmente lavoro come consulente per <a>Elis Innovation Hub, Roma</a>
 - 2021 ➡ Consulente per Elis innovation hub 
 - 2021 ➡ Stage presso Terna s.p.a.
 - 2020 ➡ Stage presso NetResults s.r.l come sviluppatore junior C++.
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ### My Passions 🎨:
 - Ciclismo 🚴‍♂️
 - Musica Rock 🤘
