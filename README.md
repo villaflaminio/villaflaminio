@@ -5,7 +5,6 @@ Vivo a <b>Roma</b>🏠, Sono un diplomato in Elettrotecnica con una forte passio
 Attualmente lavoro come consulente per <a>Elis Innovation Hub, Roma</a>
 
 - 📫 How to reach me: vifla01@gmail.com || @flaminio (Telegram)
-- 😄 Nikname: Flanagan 
 
 ### Studio e formazione 📚
 
