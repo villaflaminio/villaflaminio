@@ -8,6 +8,7 @@ Attualmente lavoro come consulente per <a>Elis Innovation Hub, Roma</a>
 - 😄 Nikname: Flanagan 
 
 ### Studio e formazione 📚
+
 - 2021 ➡ Studente di ingegneria informatica presso il Politecnico di Milano & Elis.
 - 2021 ➡ Corsi: Java EE , Spring Boot , Front-end base.
 - 2020 ➡ Corsi: AWS Foundational, Cisco CCENT , Android e Java se 8 .
@@ -22,9 +23,16 @@ Attualmente lavoro come consulente per <a>Elis Innovation Hub, Roma</a>
 - 2009/2015 ➡ World Organization of the Scout Movement.⚜️
 
 ### Esperienze:
-- 2021 ➡ Consulente per Elis innovation hub 
+- 2022 ➡ Consulenza presso STMicroelectronics, Progettazione e sviluppo di applicazioni in C# e .NET
+- 2022 ➡ Consulenza presso Enel Green Power, Progettazione e integrazione di sistemi per la prevenzione di infortuni con 
+          algoritmi di Machine Learning.
+- 2022 ➡ Sviluppo Spring e SpringCloud, architettura a microservizi
+- 2022 ➡ Libero professionista con P.IVA
+- 2021 ➡ Consultant Software Developer presso Elis Innovation Hub
 - 2021 ➡ Stage presso Terna s.p.a.
 - 2020 ➡ Stage presso NetResults s.r.l come sviluppatore junior C++.
+- 2019 ➡ Olimpiadi dell’Automazione 10° Edizione, Organizzate da Siemens SCE e parte del Programma annuale di Promozione 
+          delle Eccellenze del MIUR.
 ### My Passions 🎨:
 - Ciclismo 🚴‍♂️
 - Musica Rock 🤘
