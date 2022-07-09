@@ -9,9 +9,11 @@ Attualmente lavoro come consulente per <a>Elis Innovation Hub, Roma</a>
 
 ### Studio e formazione 📚
 
-- 2021 ➡ Studente di ingegneria informatica presso il Politecnico di Milano & Elis.
+- 2022 ➡ Laurea in ingegneria informatica presso il Politecnico di Milano
+- 2022 ➡ Corsi: C# e .NET Framework
 - 2021 ➡ Corsi: Java EE , Spring Boot , Front-end base.
 - 2020 ➡ Corsi: AWS Foundational, Cisco CCENT , Android e Java se 8 .
+- 2019 ➡ Studente di ingegneria informatica presso il Politecnico di Milano & Elis.
 - 2019 ➡ Diploma di scuola superiore presso  I.T.T.S Scalfaro Catanzaro Articolazione Elettrotecnica.
 - 2019 ➡ Stage estivo presso Sprachcaffe-Beijing, Pechino 🚩
 - 2019 ➡ Certificazione ECDL full standard
@@ -27,7 +29,7 @@ Attualmente lavoro come consulente per <a>Elis Innovation Hub, Roma</a>
 - 2022 ➡ Consulenza presso Enel Green Power, Progettazione e integrazione di sistemi per la prevenzione di infortuni con 
           algoritmi di Machine Learning.
 - 2022 ➡ Sviluppo Spring e SpringCloud, architettura a microservizi
-- 2022 ➡ Libero professionista con P.IVA
+- 2022 ➡ Libero professionista a P.IVA, progettazione di un software gestionale per B&B e domotizzazione degli stessi. 
 - 2021 ➡ Consultant Software Developer presso Elis Innovation Hub
 - 2021 ➡ Stage presso Terna s.p.a.
 - 2020 ➡ Stage presso NetResults s.r.l come sviluppatore junior C++.
