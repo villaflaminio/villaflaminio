@@ -8,7 +8,7 @@ Attualmente lavoro come consulente per <a>Elis Innovation Hub, Roma</a>
 - 📫 How to reach me: vifla01@gmail.com || @flaminio (Telegram)
 
 ### Studio e formazione 📚
-
+- 2022 ➡ Abilitazione Perito industriale Elettrotecnico e Automazione
 - 2022 ➡ Laurea in ingegneria informatica presso il Politecnico di Milano
 - 2022 ➡ Corsi: C# e .NET Framework
 - 2021 ➡ Corsi: Java EE , Spring Boot , Front-end base.
@@ -42,9 +42,9 @@ Attualmente lavoro come consulente per <a>Elis Innovation Hub, Roma</a>
 - Monociclo
 
 ###  Technologies:
-- Java ☕️
-- Python 🐍
-- c# 
+- Java ☕️ ~ SpringBoot
+- c# ~ .NET Framework
+- Python 🐍 ~ Flask
 - Arduino 
 - Siemens
 - Docker
