@@ -1,6 +1,5 @@
 # Ciao sono Flaminio 
-Mi chiamo <b>Flaminio villa</b> Sono un diplomato in Elettrotecnica e laureato in ingegneria informatica, con una forte passione verso il mondo dell'automazione e l’innovazione  
-🎓 presso <b>Elis College</b> e 🎓<b>Politecnico di Milano</b>.
+Mi chiamo <b>Flaminio villa</b> Sono un diplomato in Elettrotecnica e laureato in ingegneria informatica, con una forte passione verso il mondo dell'automazione e l’innovazione  🎓 presso <b>Elis College</b> e 🎓<b>Politecnico di Milano</b>.
 
 Vivo a <b>Roma</b>🏠e Attualmente lavoro come consulente per <a>Elis Innovation Hub, Roma</a> e libero professionista a <a> Partita iva  </a> 🇮🇹
 
