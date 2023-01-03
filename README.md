@@ -1,8 +1,8 @@
-# Ciao sono Flaminio 👋
+# Ciao sono Flaminio 
 Mi chiamo <b>Flaminio villa</b> Sono un diplomato in Elettrotecnica e laureato in ingegneria informatica, con una forte passione verso il mondo dell'automazione e l’innovazione  
 🎓 presso <b>Elis College</b> e 🎓<b>Politecnico di Milano</b>.
 
-Vivo a <b>Roma</b>🏠e Attualmente lavoro come consulente per <a>Elis Innovation Hub, Roma</a> e libero professionista a <a> Partita iva 🇮🇹 </a>
+Vivo a <b>Roma</b>🏠e Attualmente lavoro come consulente per <a>Elis Innovation Hub, Roma</a> e libero professionista a <a> Partita iva  </a> 🇮🇹
 
 - 📫 How to reach me: vifla01@gmail.com || @flaminio (Telegram)
 
