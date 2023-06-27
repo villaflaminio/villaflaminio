@@ -6,6 +6,7 @@ Vivo a <b>Roma</b>🏠e Attualmente lavoro come consulente per <a>Elis Innovatio
 - 📫 How to reach me: vifla01@gmail.com || @flaminio (Telegram)
 
 ### Studio e formazione 📚
+- 2023 ➡ Certificazione Java OCP
 - 2022 ➡ Abilitazione Perito industriale Elettrotecnico e Automazione
 - 2022 ➡ Laurea in ingegneria informatica presso il Politecnico di Milano
 - 2022 ➡ Corsi: C# e .NET Framework
@@ -23,6 +24,7 @@ Vivo a <b>Roma</b>🏠e Attualmente lavoro come consulente per <a>Elis Innovatio
 - 2009/2015 ➡ World Organization of the Scout Movement.⚜️
 
 ### Esperienze:
+- 2023 ➡ Consulenza presso Open Italy per ITA Airwais
 - 2022 ➡ Consulenza presso STMicroelectronics, Progettazione e sviluppo di applicazioni in C# e .NET
 - 2022 ➡ Consulenza presso Enel Green Power, Progettazione e integrazione di sistemi per la prevenzione di infortuni con 
           algoritmi di Machine Learning.
@@ -48,6 +50,3 @@ Vivo a <b>Roma</b>🏠e Attualmente lavoro come consulente per <a>Elis Innovatio
 - Docker
 - Linux
 - Git
-- Google cloud
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=villaflaminio&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
