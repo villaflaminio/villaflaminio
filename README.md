@@ -1,7 +1,7 @@
 # Ciao sono Flaminio 
 Mi chiamo <b>Flaminio villa</b> Sono un diplomato in Elettrotecnica e laureato in ingegneria informatica, con una forte passione verso il mondo dell'automazione e l’innovazione  🎓 presso <b>Elis College</b> e 🎓<b>Politecnico di Milano</b>.
 
-Vivo a <b>Roma</b>🏠e Attualmente lavoro come consulente per <a>Elis Innovation Hub, Roma</a> e libero professionista a <a> Partita iva  </a> 🇮🇹
+Vivo a <b>Roma</b>🏠e Attualmente lavoro Software Developer presso AizoOn Technology Consulting e libero professionista a <a> Partita iva  </a> 🇮🇹
 
 - 📫 How to reach me: vifla01@gmail.com || @flaminio (Telegram)
 
@@ -24,6 +24,7 @@ Vivo a <b>Roma</b>🏠e Attualmente lavoro come consulente per <a>Elis Innovatio
 - 2009/2015 ➡ World Organization of the Scout Movement.⚜️
 
 ### Esperienze:
+- 2024 ➡ Cyber Software Developer @ aizoOn Technology Consulting
 - 2023 ➡ Consulenza presso Open Italy per ITA Airwais
 - 2022 ➡ Consulenza presso STMicroelectronics, Progettazione e sviluppo di applicazioni in C# e .NET
 - 2022 ➡ Consulenza presso Enel Green Power, Progettazione e integrazione di sistemi per la prevenzione di infortuni con 
