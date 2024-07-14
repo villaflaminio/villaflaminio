@@ -25,6 +25,7 @@ Vivo a <b>Roma</b> 🏠 e lavoro Software Developer presso AizoOn Technology Con
 
 ### Esperienze:
 - 2024 ➡ Cyber Software Developer @ aizoOn Technology Consulting
+- 2024 ➡ Consulenza presso Toyota Motor Italia
 - 2023 ➡ Consulenza presso Open Italy per ITA Airwais
 - 2022 ➡ Consulenza presso STMicroelectronics, Progettazione e sviluppo di applicazioni in C# e .NET
 - 2022 ➡ Consulenza presso Enel Green Power, Progettazione e integrazione di sistemi per la prevenzione di infortuni con 
@@ -36,18 +37,3 @@ Vivo a <b>Roma</b> 🏠 e lavoro Software Developer presso AizoOn Technology Con
 - 2020 ➡ Stage presso NetResults s.r.l come sviluppatore junior C++.
 - 2019 ➡ Olimpiadi dell’Automazione 10° Edizione, Organizzate da Siemens SCE e parte del Programma annuale di Promozione 
           delle Eccellenze del MIUR.
-### My Passions 🎨:
-- Ciclismo 🚴‍♂️
-- Musica Rock 🤘
-- Formula 1 🏎️
-- Monociclo
-
-###  Technologies:
-- Java ☕️ ~ SpringBoot
-- c# ~ .NET Framework
-- Python 🐍 ~ Flask
-- Arduino 
-- Siemens
-- Docker
-- Linux
-- Git
