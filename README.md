@@ -1,7 +1,7 @@
 # Ciao sono Flaminio 
-Mi chiamo <b>Flaminio villa</b> Sono un diplomato in Elettrotecnica e laureato in ingegneria informatica, con una forte passione verso il mondo dell'automazione e l’innovazione  🎓 presso <b>Elis College</b> e 🎓<b>Politecnico di Milano</b>.
+Mi chiamo <b>Flaminio Villa</b> Sono un diplomato in Elettrotecnica e laureato in ingegneria informatica, con una forte passione verso il mondo dell'automazione
 
-Vivo a <b>Roma</b>🏠e Attualmente lavoro Software Developer presso AizoOn Technology Consulting e libero professionista a <a> Partita iva  </a> 🇮🇹
+Vivo a <b>Roma</b> 🏠 e lavoro Software Developer presso AizoOn Technology Consulting e libero professionista a <a> Partita iva  </a> 🇮🇹
 
 - 📫 How to reach me: vifla01@gmail.com || @flaminio (Telegram)
 
