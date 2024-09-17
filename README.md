@@ -3,7 +3,7 @@ Mi chiamo <b>Flaminio Villa</b> Sono un diplomato in Elettrotecnica e laureato i
 
 Vivo a <b>Roma</b> 🏠 e lavoro Software Developer presso AizoOn Technology Consulting e libero professionista a <a> Partita iva  </a> 🇮🇹
 
-- 📫 How to reach me: vifla01@gmail.com || @flaminio (Telegram)
+- 📫 How to reach me: vifla01@gmail.com
 
 ### Studio e formazione 📚
 - 2023 ➡ Certificazione Java OCP
