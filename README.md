@@ -26,7 +26,7 @@ Vivo a <b>Roma</b> 🏠 e lavoro Software Developer presso AizoOn Technology Con
 ### Esperienze:
 - 2024 ➡ Cyber Software Developer @ aizoOn Technology Consulting
 - 2024 ➡ Consulenza presso Toyota Motor Italia
-- 2023 ➡ Consulenza presso Open Italy per ITA Airwais
+- 2023 ➡ Consulenza presso Open Italy per ITA Airways
 - 2022 ➡ Consulenza presso STMicroelectronics, Progettazione e sviluppo di applicazioni in C# e .NET
 - 2022 ➡ Consulenza presso Enel Green Power, Progettazione e integrazione di sistemi per la prevenzione di infortuni con 
           algoritmi di Machine Learning.
