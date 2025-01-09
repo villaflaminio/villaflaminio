@@ -1,7 +1,7 @@
 # Hi, I’m Flaminio  
 I have a high school diploma in Electrical Engineering and a degree in Computer Engineering, with a strong passion for the world of automation.
 
-I live in **Rome** 🏠 and work as a Software Developer at AizoOn Technology Consulting, as well as a freelance.
+I live in **Rome** 🏠 and work as a Software Developer at AizoOn Technology Consulting.
 
 - 📫 How to reach me: vifla01@gmail.com
 
