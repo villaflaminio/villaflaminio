@@ -1,14 +1,15 @@
 # Hi, I’m Flaminio  
 I have a high school diploma in Electrical Engineering and a degree in Computer Engineering, with a strong passion for the world of automation.
 
-I live in **Rome** 🏠 and work as a Software Developer at AizoOn Technology Consulting.
+I live in **Rome** 🏠 and work as a Software Developer at [AizoOn Technology Consulting](https://ai-esra.com/).
 
 - 📫 How to reach me: vifla01@gmail.com
 
 ### Education and Training 📚
+- 2025 ➡ II Degree in Computer Engineering
 - 2023 ➡ Java OCP Certification
 - 2022 ➡ Qualification as Industrial Expert in Electrical Engineering and Automation
-- 2022 ➡ Degree in Computer Engineering from the Politecnico di Milano
+- 2022 ➡ I Degree in Computer Engineering from the Politecnico di Milano
 - 2022 ➡ Courses: C# and .NET Framework
 - 2021 ➡ Courses: Java EE, Spring Boot, Basic Front-end
 - 2020 ➡ Courses: AWS Foundational, Cisco CCENT, Android, and Java SE 8
@@ -22,7 +23,7 @@ I live in **Rome** 🏠 and work as a Software Developer at AizoOn Technology Co
 - 2009/2015 ➡ World Organization of the Scout Movement ⚜️
 
 ### Experience:
-- 2024 ➡ Cyber Software Developer @ AizoOn Technology Consulting
+- 2024 ➡ Cyber Software Developer @ [ai-esra](https://ai-esra.com/)
 - 2024 ➡ Consultant at Toyota Motor Italia
 - 2023 ➡ Consultant at Open Italy for ITA Airways
 - 2022 ➡ Consultant at STMicroelectronics, designing and developing applications in C# and .NET
